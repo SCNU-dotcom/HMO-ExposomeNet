@@ -1,0 +1,2 @@
+seed,status,fig3,fig4,fig7,auc,all_ok,rank_PFAS-1,rank_PFAS-2,rank_PFAS-3,rank_PFAS-4,rank_PFAS-5
+51,ok,True,True,True,0.9709302325581395,True,5,4,3,1,2

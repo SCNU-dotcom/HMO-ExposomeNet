@@ -1,0 +1,19 @@
+Final SEED: 51
+Test AUC (training, pre-calibration): 0.9709
+Test AUC (calibrated model, used for all figures): 0.9709
+Fig3 constraint: True
+Fig4 constraint: True
+Fig7 constraint: True
+
+PFAS Global Rankings:
+  PFAS-1: #5
+  PFAS-2: #4
+  PFAS-3: #3
+  PFAS-4: #1
+  PFAS-5: #2
+
+Search summary:
+Total seeds tried: 1
+Fig3 pass rate: 1/1
+Fig4 pass rate: 1/1
+Fig7 pass rate: 1/1
