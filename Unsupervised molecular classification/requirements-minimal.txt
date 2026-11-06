@@ -1,0 +1,9 @@
+# Direct runtime dependencies of Net.py, pinned to the versions in requirements.txt
+# (original environment: Python 3.9, Windows)
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.11.4
+scikit-learn==1.5.2
+networkx==3.2.1
+rdkit==2024.9.6
+openpyxl==3.1.2

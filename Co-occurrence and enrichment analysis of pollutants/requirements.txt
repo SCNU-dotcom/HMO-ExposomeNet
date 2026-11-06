@@ -1,0 +1,9 @@
+# Tested with Python 3.10 (Windows 10/11).
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.15.3
+matplotlib==3.10.7
+Pillow==11.2.1
+openpyxl==3.1.5
+XlsxWriter==3.2.9
+python-docx==1.2.0

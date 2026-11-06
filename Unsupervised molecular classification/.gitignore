@@ -1,0 +1,14 @@
+# Generated outputs
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Office lock files / OS
+~$*
+.DS_Store
+Thumbs.db
