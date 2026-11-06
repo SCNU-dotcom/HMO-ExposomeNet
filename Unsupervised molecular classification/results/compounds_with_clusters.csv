@@ -1,0 +1,468 @@
+﻿Name,Category,SMILES,Cluster
+Dinotefuran,Pest.,N([N+]([O-])=O)C(=NC)NCC1CCOC1,9
+antipyrine,Pharm.,CN1N(C(=O)C=C1C)c2ccccc2,3
+Mebendazole-amine,Pharm.,O=C(C=1C=CC=CC1)C=2C=CC=3N=C(N)NC3C2,7
+11-Deoxycorticosterone,SHDs,[H][C@@]12CCC3=CC(=O)CC[C@]3(C)[C@@]1([H])CC[C@@]1(C)[C@@]2([H])CC[C@]1([H])C(=O)CO,1
+Progesterone,SHDs,CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C(=O)C,1
+Dicyclohexyl phthalate,PAEs,O=C(OC1CCCCC1)c2ccccc2C(=O)OC3CCCCC3,1
+Avobenzone,PPCPs,COc1ccc(cc1)C(=O)CC(=O)c1ccc(cc1)C(C)(C)C,1
+4-Acetamidoantipyrine,Pharm.,CN1N(C(=O)C(NC(C)=O)=C1C)c2ccccc2,3
+Caffeine,FAs,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,1
+SULFISOMIDINE,Pharm.,Cc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(C)n1,1
+Medroxyprogesterone,SHDs,CC([C@@]1(O)CC[C@@]2([H])[C@]3([H])C[C@H](C)C4=CC(CC[C@]4(C)[C@@]3([H])CC[C@]12C)=O)=O,1
+Dimethyl phthalate,PAEs,COC(=O)c1ccccc1C(=O)OC,1
+Bisphenol G,BPs,CC(C)c1cc(ccc1O)C(C)(C)c2ccc(O)c(c2)C(C)C,1
+2-Ethylhexyl 4-dimethylaminobenzoate ,PPCPs,CCCCC(CC)COC(=O)c1ccc(cc1)N(C)C,2
+Trihexyl phosphate,OPFPs,CCCCCCOP (=O) (OCCCCCC)OCCCCCC,1
+malathion,Pest.,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,2
+hexaconazole,Pest.,CCCCC(O)(Cn1cncn1)c2ccc(Cl)cc2Cl,8
+piperonyl butoxide,Pest.,CCCCOCCOCCOCc1cc2OCOc2cc1CCC,3
+bromacil,Pest.,CCC(N1C(C(Br)=C(NC1=O)C)=O)C,7
+isocarbophos,Pest.,COP(N)(=S)Oc1ccccc1C(=O)OC(C)C,2
+ametryn,Pest.,N1C(NCC)=NC(NC(C)C)=NC=1SC,7
+dipropetryn,Pest.,S(CC)C1=NC(=NC(=N1)NC(C)C)NC(C)C,7
+napropamide,Pest.,CCN(CC)C(=O)C(C)Oc1cccc2ccccc12,1
+isofenphos,Pest.,CCOP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C,2
+tolclofos methyl,Pest.,COP(=S)(OC)Oc1c(Cl)cc(C)cc1C,5
+pyriproxyfen,Pest.,C1(OC(C)COC2=CC=C(OC3=CC=CC=C3)C=C2)=NC=CC=C1,1
+pendimethalin,Pest.,CCC(CC)Nc1c(cc(C)c(C)c1[N+]([O-])=O)[N+]([O-])=O,2
+allethrin,Pest.,C=CCC1=C(C)C(CC1=O)OC(=O)C2C(C=C(C)C)C2(C)C,2
+fenpropathrin,Pest.,O(C(C#N)C1C=CC=C(C=1)OC1C=CC=CC=1)C(C1C(C)(C)C1(C)C)=O,1
+pyridaben,Pest.,C1(=O)N(C(C)(C)C)N=CC(SCC2=CC=C(C(C)(C)C)C=C2)=C1Cl,8
+11Cl-PF3OUdS,PFAS,C(F)(F)(C(F)(F)C(F)(F)C(F)(F)OC(F)(F)C(F)(F)S(O)(=O)=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Cl.[KH],2
+3-3FTCA,PFAS,O=C(O)CCC(F)(F)C(F)(F)C(F)(F)F,1
+4-2 FTS,PFAS,C(CS(=O)(=O)O)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F,4
+5-3FTCA,PFAS,C(O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,1
+6-2 FTS,PFAS,O=S(O)(CCC(F)(C(F)(C(F)(C(F)(C(F)(C(F)(F)F)F)F)F)F)F)=O,4
+7-3FTCA,PFAS,O=C(CCC(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(F)F)F)F)F)F)F)F)O,3
+8-2FTS,PFAS,O=S(O)(CCC(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(F)F)F)F)F)F)F)F)F)=O,2
+9Cl-PF3ONS,PFAS,C(C(C(C(F)(F)Cl)(F)F)(F)F)(C(C(OC(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F,2
+ADONA,PFAS,[Na].O=C(O)C(F)(F)C(F)OC(F)(F)C(F)(F)C(F)(F)OC(F)(F)F,1
+HFPO-DA,PFAS,FC(F)(F)C(F)(F)C(F)(F)OC(F)(C(F)(F)F)C(=O)O,1
+N-EtFOSA,PFAS,O=S(N(CCO)C)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(F)F)F)F)F)F)F)F)F)=O,5
+N-EtFOSAA,PFAS,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)[S](=O)(=O)N(CC)CC(=O)O,5
+N-EtFOSE,PFAS,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)[S](=O)(=O)N(CCO)CC,5
+NFDHA,PFAS,C(O)(=O)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)F,1
+N-MeFOSA,PFAS,C(F)(F)(C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)S(=O)(=O)NC([H])([H])[H],2
+N-MeFOSAA,PFAS,CN(CC(=O)O)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,5
+N-MeFOSE,PFAS,CN(CCO)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,5
+PFBA,PFAS,O=C(O)C(F)(F)C(F)(F)C(F)(F)F,1
+PFBS,PFAS,C(F)(F)(S(O)(=O)=O)C(F)(F)C(F)(F)C(F)(F)F,4
+PFDA,PFAS,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,3
+PFDoA ,PFAS,C(O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,3
+PFDoS,PFAS,C(C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(F)F)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,2
+PFDS,PFAS,O=S(O)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(C(F)(F)F)F)F)F)F)F)F)F)F)F)=O,2
+PFEESA,PFAS,C(S(O)(=O)=O)(F)(F)C(F)(F)OC(F)(F)C(F)(F)F,4
+PFHpA,PFAS,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,1
+PFHpS,PFAS,C(F)(F)(S(O)(=O)=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,4
+PFHxA,PFAS,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F                           ,1
+PFHxS,PFAS,C(F)(F)(S(O)(=O)=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,4
+PFMBA,PFAS,O=C(O)C(F)(F)C(F)(F)C(F)(F)OC(F)(F)F,1
+PFMPA,PFAS,O=C(O)C(F)(F)C(F)(F)OC(F)(F)F,1
+PFNA,PFAS,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,3
+PFNS,PFAS,C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F,2
+PFOA,PFAS,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,3
+PFOS,PFAS,C(F)(F)(S(O)(=O)=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,2
+PFOSA,PFAS,NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,2
+PFPeA,PFAS,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,1
+PFPeS,PFAS,C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)S(=O)(=O)O,4
+PFTeDA,PFAS,C(=O)(C(C(C(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,3
+PFTrDA,PFAS,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,3
+PFUnA,PFAS,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,3
+Flumethasone,Pharm.,C1(=O)C=C2[C@](C)(C=C1)[C@]1(F)[C@]([H])([C@@]3([H])[C@@](C[C@@H]1O)(C)[C@@](O)(C(=O)CO)[C@H](C)C3)C[C@@H]2F,6
+Testosterone propionate,SHDs,[H][C@@]12CCC3=CC(=O)CC[C@]3(C)[C@@]1([H])CC[C@]4(C)[C@H](CC[C@@]24[H])OC(=O)CC,1
+progesterone,Pharm.,CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C(=O)C,2
+p-Cresyl diphenyl phosphate,OPFPs,P(=O)(OC1=CC=CC=C1)(OC1=CC=CC=C1)OC1C=CC=C(C)C=1,2
+Imidacloprid,Pest.,[O-][N+](=O)NC1=NCCN1Cc2ccc(Cl)nc2,9
+Albendazole oxide,Pharm.,CCCS(=O)c1ccc2[nH]c(NC(=O)OC)nc2c1,7
+ETHOPABATE,Others,C(OC)(=O)C1=CC=C(NC(C)=O)C=C1OCC,1
+2-Aminoflubendazole,Pharm.,Nc1nc2cc(ccc2[nH]1)C(=O)c3ccc(F)cc3,7
+Desoxycarbadox,VDs,N(C(OC)=O)N=CC1C=NC2C(N=1)=CC=CC=2,3
+diphenhydramine,Pharm.,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,3
+ACEPROMAZINE,VDs,CC(=O)c1ccc2c(c1)N(CCCN(C)C)c1ccccc1S2,4
+Homosibutramine hydrochloride,Pharm.,CCN(C)C(C1(CCC1)c2ccc(Cl)cc2)CC(C)C.Cl,3
+Desmethylsibutramine,Pharm.,CNC(CC(C)C)C1(CCC1)c2ccc(Cl)cc2,3
+MEGESTROL ACETATE,Pharm.,[H][C@@]12CC[C@](OC(C)=O)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C=C(C)C2=CC(=O)CC[C@]12C,2
+Megestrol acetate,SHDs,[H][C@@]12CC[C@](OC(C)=O)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C=C(C)C2=CC(=O)CC[C@]12C,1
+(E)-Diethylstilbestrol,SHDs,CC\C(c1ccc(O)cc1)=C(\CC)c2ccc(O)cc2,2
+Tri-p-cresyl phosphate,OPFPs,Cc1ccc(OP(=O)(Oc2ccc(C)cc2)Oc3ccc(C)cc3)cc1,2
+Bis(2-butoxyethyl) phthalate,PAEs,CCCCOCCOC(=O)C1=CC=CC=C1C(=O)OCCOCCCC,1
+Phthalic acid Di-n-hexyl ester,PAEs,O=C(C1C(C(OCCCCCC)=O)=CC=CC=1)OCCCCCC,1
+17β-estradiol 3-benzoate,SHDs,O[C@H]1CC[C@@]2([H])[C@]3([H])CCC4=C(C=CC(OC(C5=CC=CC=C5)=O)=C4)[C@@]3([H])CC[C@]12C,1
+iprobenfos,Pest.,CC(C)OP(=O)(OC(C)C)SCc1ccccc1,5
+trifloxystrobin,Pest.,FC(C1C=CC=C(/C(/C)=N/OCC2C=CC=CC=2/C(/C(=O)OC)=N\OC)C=1)(F)F,1
+fenothiocarb,Pest.,O=C(SCCCCOC=1C=CC=CC1)N(C)C,4
+cyflufenamid,Pest.,Fc1ccc(c(c1F)C(\NC(=O)Cc2ccccc2)=N\OCC3CC3)C(F)(F)F,1
+EPN,Pest.,CCOP(=S)(Oc1ccc([N+]([O-])=O)cc1)c2ccccc2,2
+chorthiophos,Pest.,CCOP(=S)(OCC)Oc1cc(Cl)c(SC)cc1Cl,5
+prednisone,Pharm.,O=C(CO)[C@@]3(O)CC[C@H]2[C@@H]4CC\C1=C\C(=O)\C=C/[C@]1(C)[C@H]4C(=O)C[C@@]23C,2
+Hydrocortisone acetate,Pharm.,C[C@@]12[C@]([C@]3([C@]([C@@H](O)C1)([C@]4(C)C(CC3)=CC(=O)CC4)[H])[H])(CC[C@@]2(C(COC(C)=O)=O)O)[H],2
+Levonorgestrel,Pharm.,C([C@@]12[C@](O)(C#C)CC[C@H]1[C@@H]1CCC3=CC(CC[C@@H]3[C@H]1CC2)=O)C,2
+Hydrocortisone-17-butyrate,Pharm.,CCCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@]12C,2
+Stanozolol,SHDs,C[C@]1(O)CCC2C3CC[C@H]4Cc5[nH]ncc5C[C@]4(C)C3CC[C@]12C,1
+"Tris(3,5-xylenyl)phosphate",OPFPs,P(=O)(OC1C=CC(C)=CC=1C)(OC1C=CC(C)=CC=1C)OC1C=CC(C)=CC=1C,2
+ 5-hydroxy-imidacloprid,Pest.,C1(Cl)=NC=C(CN2C(N[N+]([O-])=O)=NCC2)C=C1O,9
+Sarafloxacin,Pharm.,C12C=C(C(F)=CC=1C(C(C(=O)O)=CN2C1C=CC(F)=CC=1)=O)N1CCNCC1.Cl,8
+Atropine,Pharm.,CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C(CO)c3ccccc3,5
+Albendazole sulfone,Pharm.,CCCS(=O)c1ccc2[nH]c(NC(=O)OC)nc2c1,7
+Cambendazole,Pharm.,CC(C)OC(=O)Nc1ccc2[nH]c(nc2c1)-c3cscn3,7
+Prednisone,Pharm.,O=C(CO)[C@@]3(O)CC[C@H]2[C@@H]4CC\C1=C\C(=O)\C=C/[C@]1(C)[C@H]4C(=O)C[C@@]23C,2
+Prednisolone,Pharm.,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C)O,2
+Benzyl-sibutramine hydrochloride,Pharm.,Cl.CN(C)C(Cc1ccccc1)C2(CCC2)c3ccc(Cl)cc3,3
+Methylprednisolone,Pharm.,C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O,2
+Bisphenol AF,BPs,Oc1ccc(cc1)C(c2ccc(O)cc2)(C(F)(F)F)C(F)(F)F,2
+Halcinonide,Pharm.,O1[C@]2([H])C[C@]3([H])[C@@](C)([C@]2(C(CCl)=O)OC1(C)C)C[C@H](O)[C@]1(F)[C@]2(C)C(=CC(=O)CC2)CC[C@@]31[H],6
+MELENGESTROL ACETATE,VDs,CC(=O)O[C@]1(C(C)=O)C(=C)C[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,5
+Clobetasone butyrate,Pharm.,O(C(CCC)=O)[C@@]1(C(CCl)=O)[C@]2(C)[C@@](C[C@@H]1C)([C@]3([C@](F)(C(=O)C2)[C@]4(C)C(CC3)=CC(=O)C=C4)[H])[H],4
+dexamethasone,Pharm.,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,6
+Nandrolone phenylpropionate,SHDs,C[C@@]12[C@]([C@]3([C@@]([C@@]4(C(CC3)=CC(=O)CC4)[H])(CC1)[H])[H])(CC[C@@H]2OC(CCC5=CC=CC=C5)=O)[H],1
+acephate,Pest.,COP(=O)(NC(C)=O)SC,6
+simazine,Pest.,CCNc1nc(Cl)nc(NCC)n1,7
+propazine,Pest.,CC(C)N=C1NC(=NC(=NC(C)C)N1)Cl,7
+prometryn,Pest.,CSc1nc(NC(C)C)nc(NC(C)C)n1,7
+edifenphos,Pest.,CCOP(=O)(SC1=CC=CC=C1)SC2=CC=CC=C2,5
+penconazole,Pest.,CCCC(Cn1cncn1)c2ccc(Cl)cc2Cl,8
+dichlorvos,Pest.,COP(=O)(OC)O\C=C(\Cl)Cl,2
+atratone,Pest.,CCNc1nc(NC(C)C)nc(OC)n1,7
+hexazinone,Pest.,CN(C)C1=NC(=O)N(C2CCCCC2)C(=O)N1C,3
+isoprothiolane,Pest.,CC(C)OC(=O)\C(C(=O)OC(C)C)=C1/SCCS1,2
+isofenphos oxon,Pest.,CCOP(=O)(NC(C)C)OC1=CC=CC=C1C(=O)OC(C)C,2
+mefenacet,Pest.,CN(C(=O)COc1nc2ccccc2s1)c3ccccc3,1
+beflubutamid,Pest.,CCC(Oc1ccc(F)c(c1)C(F)(F)F)C(=O)NCc2ccccc2,1
+diazinon,Pest.,CCOP(=S)(OCC)Oc1cc(C)nc(n1)C(C)C,3
+sulfotep,Pest.,CCOP(=S)(OCC)OP(=S)(OCC)OCC,6
+Danofloxacin,Pharm.,C12C=C(C(F)=CC=1C(C(C(=O)O)=CN2C1CC1)=O)N1C[C@@]2([H])N(C)C[C@]1([H])C2.S(=O)(=O)(O)C,8
+sulfadimethoxine,Pharm.,C1(S(NC2C=C(OC)N=C(OC)N=2)(=O)=O)=CC=C(N)C=C1,1
+Tris(2-chloroethyl)phosphate,OPFPs,ClCCOP(=O)(OCCCl)OCCCl,1
+Acetamiprid,Pest.,C(/N(CC1=CC=C(Cl)N=C1)C)(=N\C#N)\C,9
+Tris(2-ethylhexyl)phosphate,OPFPs,CCCCC(CC)COP(=O)(OCC(CC)CCCC)OCC(CC)CCCC,1
+diisononyl phthalate,PAEs,C(OCCCCCCC(C)C)(=O)C1=CC=CC=C1C(OCCCCCCC(C)C)=O,1
+chlorpheniramine,Pharm.,CN(C)CCC(C1=CC=C(Cl)C=C1)C2=NC=CC=C2.O=C(/C=C\C(O)=O)O,5
+Sulfapyridine,Pharm.,Nc1ccc(cc1)S(=O)(=O)Nc2ccccn2,1
+procaine,Pharm.,Cl.CCN(CC)CCOC(=O)c1ccc(N)cc1,3
+Nitenpyram,Pest.,C(/NC)(\N(CC1=CC=C(Cl)N=C1)CC)=C/[N+]([O-])=O,9
+4-Aminoantipyrine,Pharm.,CN1N(c2ccccc2)C(=O)C(N)=C1C,3
+Albendazole-2-aminosulfone,Pharm.,CCCS(=O)(C1=CC=C(N=C(N)N2)C2=C1)=O,7
+Trimethoprim,Others,COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC,2
+Sulfisoxazole,Pharm.,Cc1noc(NS(=O)(=O)c2ccc(N)cc2)c1C,1
+diazepam,Pharm.,CCOP(=S)(OCC)OP(=S)(OCC)OCC,3
+isoprocarb,Pest.,C1(OC(=O)NC)=CC=CC=C1C(C)C,4
+Ciprofloxacin,Pharm.,N1(C2CC2)C2=C(C=C(F)C(N3CCNCC3)=C2)C(=O)C(C(O)=O)=C1,8
+Sulfaquinoxaline,Pharm.,C1(S(NC2C=NC3C(N=2)=CC=CC=3)(=O)=O)=CC=C(N)C=C1,1
+paraoxon-methyl,Pest.,COP(=O)(OC)Oc1ccc(cc1)[N+](=O)[O-],2
+monolinuron,Pest.,N(OC)(C)C(NC1=CC=C(Cl)C=C1)=O,4
+ethoprophos,Pest.,CCCSP(=O)(OCC)SCCC,6
+terbufos,Pest.,CCOP(=S)(OCC)SCS(=O)(=O)C(C)(C)C,6
+fenthion sulfone,Pest.,COP(=S)(OC)Oc1ccc(c(C)c1)S(C)(=O)=O,5
+tetramethrin,Pest.,C\C(C)=C\C1C(C(=O)OCN2C(=O)C3=C(CCCC3)C2=O)C1(C)C,4
+FLUROGESTONE ACETATE,Pharm.,C[C@]12C[C@H](O)[C@@]3([C@]4(CCC(=O)C=C4CC[C@@]3([H])[C@]1([H])CC[C@@]2(C(=O)C)OC(=O)C)C)F,4
+dierotofos,Pest.,CC(=CC(=O)N(C)C)OP(=O)(OC)OC,2
+metribuzin,Pest.,CSC1=NN=C(C(=O)N1N)C(C)(C)C,7
+paraoxon,Pest.,CCOP(=O)(OCC)Oc1ccc(cc1)[N+](=O)[O-],2
+pronamide,Pest.,CC(C)(NC(=O)c1cc(Cl)cc(Cl)c1)C#C,4
+phosfolan,Pest.,CCOP(=O)(OCC)N=C1SCCS1,5
+fenamidone,Pest.,CSC1=N[C@](C)(C(=O)N1Nc2ccccc2)c3ccccc3,1
+Fenbendazole sulfone,Pest.,COC(=O)Nc1nc2cc(ccc2[nH]1)S(=O)(=O)c3ccccc3,1
+ketoprofen,Pharm.,CC(C(O)=O)c1cccc(c1)C(=O)c2ccccc2,5
+pirimicarb,Pest.,CN(C)C(=O)Oc1nc(nc(C)c1C)N(C)C,3
+propanil,Pest.,CCC(=O)Nc1ccc(Cl)c(Cl)c1,4
+Prodox acetate,SHDs,CC(=O)O[C@]1(CC(=O)C)[C@H]2CC[C@@]3(C)[C@]4(CCC[C@]3([C@H]2CC1=O)C)CCC(=O)C=C4,1
+Bumetanide,Pharm.,C(O)(=O)C1=CC(NCCCC)=C(OC2=CC=CC=C2)C(S(N)(=O)=O)=C1,1
+quinalphos,Pest.,CCOP(=S)(OCC)Oc1cnc2ccccc2n1,3
+thiobencarb,Pest.,CCN(CC)C(=O)SCC1=CC=C(Cl)C=C1,4
+Lomefloxacin,Pharm.,N1(CC)C2=C(C=C(F)C(N3CCNC(C)C3)=C2F)C(=O)C(C(O)=O)=C1.[H]Cl,8
+Azaperone,VDs,C(CCC(=O)C1=CC=C(F)C=C1)N2CCN(CC2)C3=CC=CC=N3,6
+mebendazole,Pharm.,COC(=O)Nc1nc2cc(ccc2[nH]1)C(=O)c3ccccc3,7
+Pefloxacin,Pharm.,FC1C=C2C(C(C(=O)O)=CN(CC)C2=CC=1N1CCN(C)CC1)=O,8
+Strychnine,Pest.,O=C1C[C@@H]2OCC=C3[C@H]4[C@@H]2[C@H]2N1c1ccccc1[C@]12CCN(C1C4)C3,4
+BETAMETHASONE VALERATE,Pharm.,C[C@@]12[C@@](OC(CCCC)=O)(C(CO)=O)[C@@H](C)C[C@]1([C@]3([C@](F)([C@@H](O)C2)[C@]4(C)C(CC3)=CC(=O)C=C4)[H])[H],4
+piperophos,Pest.,CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,6
+omethoate,Pest.,P(=O)(OC)(OC)SCC(=O)NC,6
+desmetryD,Pest.,CC(C)NC1=NC(=NC(=N1)NC)SC,7
+fosthiazate,Pest.,P(N1CCSC1=O)(SC(C)CC)(=O)OCC,6
+Sulfacetamide,Pharm.,NC1=CC=C(S(N([Na])C(C)=O)(=O)=O)C=C1.O,1
+1-Methyl-3-(tetrahydro-3-furylmethyl)urea,Pest.,CNC(=O)NCC1CCOC1,4
+Noramidopyrine,Pharm.,CNC1=C(C)N(C)N(C1=O)c2ccccc2,3
+2-Phenylbenzimidazole-5-sulfonic acid,PPCPs,OS(=O)(=O)c1ccc2[nH]c(nc2c1)-c3ccccc3,3
+Clopidol,VDs,Cc1nc(C)c(Cl)c(O)c1Cl,2
+Ofloxacin,Pharm.,CC1COc2c(N3CCN(C)CC3)c(F)cc4C(=O)C(=CN1c24)C(O)=O,8
+Ormetoprim,Others,COc1cc(C)c(Cc2cnc(N)nc2N)cc1OC,2
+Sulfamonomethoxine,Pharm.,C1(S(NC2C=C(OC)N=CN=2)(=O)=O)=CC=C(N)C=C1,1
+sulfabenzamide,Pharm.,Nc1ccc(cc1)S(=O)(=O)NC(=O)c2ccccc2,1
+Benzyl butyl phthalate,PAEs,CCCCOC(=O)c1ccccc1C(=O)OCc2ccccc2,1
+Pilocarpine,Pharm.,O1C[C@H](CC2N(C)C=NC=2)[C@H](CC)C1=O,3
+Olaquindox,VDs,O=[N+]1C2C=CC=CC=2N(C(C)=C1C(NCCO)=O)[O-],7
+sulfamethazine,Pharm.,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,1
+ronidazole,VDs,C1(COC(=O)N)=NC=C([N+]([O-])=O)N1C,8
+Sulfadiazine,Pharm.,Nc1ccc(cc1)S(=O)(=O)Nc2ncccn2,1
+Imidocarb,Pest.,N(C1=CC=CC(C2NCCN=2)=C1)C(NC1=CC=CC(C2NCCN=2)=C1)=O,1
+sulfamerazine,Pharm.,S(C1C=CC(=CC=1)N)(NC1N=CC=C(C)N=1)(=O)=O,1
+Methylephedrine,Pharm.,CC(C(c1ccccc1)O)N(C)C,3
+dapsone,Pharm.,O=S(C1C=CC(N)=CC=1)(C1C=CC(N)=CC=1)=O,1
+sulfamethizole,Pharm.,Cc1nnc(NS(=O)(=O)c2ccc(N)cc2)s1,1
+(±)-Amphetamine,Pharm.,CC(N)Cc1ccccc1,3
+CARBADOX,VDs,[O-][N+]1C(/C=N/NC(=O)OC)=C[N+](=C2C=CC=CC=12)[O-],9
+(-)-Deoxyephedrine,Pharm.,C[C@H](Cc1ccccc1)N(C)C,3
+sulfisoxazole,Pharm.,Cc1noc(NS(=O)(=O)c2ccc(N)cc2)c1C,1
+thiabendazole,Pharm.,c1ccc2[nH]c(nc2c1)-c3cscn3,7
+Sulfachlorpyridazine,Pharm.,NC1=CC=C(C=C1)S(=O)(=O)NC1=CC=C(Cl)N=N1,1
+Sulfadimethoxine,Pharm.,C1(S(NC2C=C(OC)N=C(OC)N=2)(=O)=O)=CC=C(N)C=C1,1
+Azaperol,VDs,OC(CCCN1CCN(c2ccccn2)CC1)c1ccc(F)cc1,10
+sulfaphenazole,Pharm.,C1(S(NC2N(C3=CC=CC=C3)N=CC=2)(=O)=O)=CC=C(N)C=C1,1
+Bisphenol S,BPs,Oc1ccc(cc1)S(=O)(=O)c2ccc(O)cc2,3
+Sulfadoxine,Pharm.,COc1ncnc(NS(=O)(=O)c2ccc(N)cc2)c1OC,1
+Thiacloprid,Pest.,N1(CCS/C/1=N/C#N)CC1=CN=C(Cl)C=C1,9
+Nevirapine,Pharm.,CC1=CC=NC2=C1NC(C(C=CC=N3)=C3N2C4CC4)=O,3
+Carazolol,VDs,CC(C)NCC(O)COc1cccc2[nH]c3ccccc3c12,2
+phenacetin,Pharm.,CCOc1ccc(NC(C)=O)cc1,3
+Oxfendazole,Pharm.,C(OC)(=O)NC1NC2=CC(S(C3=CC=CC=C3)=O)=CC=C2N=1,7
+benzocaine,Pharm.,CCOC(=O)c1ccc(N)cc1,3
+meloxicam,Pharm.,S1(=O)(=O)C2=CC=CC=C2C(O)=C(C(NC2=NC=C(C)S2)=O)N1C,1
+indoprofen,Pharm.,CC(C1=CC=C(C=C1)N2CC3=CC=CC=C3C2=O)C(=O)O,5
+"2,6-Dichloro-4-nitrophenol",DBPs,Oc1c(Cl)cc(cc1Cl)[N+]([O-])=O,1
+Testosterone,SHDs,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O,1
+FLUNIXIN,Pharm.,CNC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO.Cc1c(Nc2ncccc2C(O)=O)cccc1C(F)(F)F,8
+Tri-o-totyl phosphate,OPFPs,CC1=CC=CC=C1OP(OC2=CC=CC=C2C)(OC3=C(C)C=CC=C3)=O,2
+2-ethylhexyl diphenyl phosphate,OPFPs,CCCCC(CC)COP(=O)(Oc1ccccc1)Oc1ccccc1,2
+Dipentyl phthalate,PAEs,CCCCCOC (=O)c1ccccc1C (=O)OCCCCC,2
+Octocrylene,PPCPs,CCCCC(CC)COC(=O)\C(C#N)=C(/c1ccccc1)c2ccccc2,4
+oxadiazon,Pest.,O=C1OC(C(C)(C)C)=NN1C2=CC(OC(C)C)=C(Cl)C=C2Cl,8
+oxadixyl,Pest.,COCC(=O)N(N1CCOC1=O)c2c(C)cccc2C,1
+malaoxon,Pest.,CCOC(=O)CC(SP(=O)(OC)OC)C(=O)OCC,2
+fenthion sulfoxide,Pest.,COP(=S)(OC)Oc1ccc(c(C)c1)S(C)=O,5
+methacrifos,Pest.,CC(=COP(=S)(OC)OC)C(=O)OC,2
+thionazin,Pest.,CCOP(=S)(OCC)Oc1cnccn1,3
+fenobucarb,Pest.,CCC(C)c1ccccc1OC(=O)NC,4
+myclobutanil,Pest.,CCCCC(Cn1cncn1)(C#N)c2ccc(Cl)cc2,8
+fluquinconazole,Pest.,Fc1ccc2N=C(N(C(=O)c2c1)c3ccc(Cl)cc3Cl)n4cncn4,3
+triadimenol,Pest.,CC(C)(C)C(O)C(Oc1ccc(Cl)cc1)n2cncn2,8
+ditalimfos,Pest.,S=P(N1C(C2C=CC=CC=2C1=O)=O)(OCC)OCC,4
+fenthion,Pest.,S=P(OC1=CC(=C(C=C1)SC)C)(OC)OC,5
+etrimfos,Pest.,CCOc1cc(OP(=S)(OC)OC)nc(CC)n1,3
+fludioxonil,Pest.,N1C=C(C2=C3C(=CC=C2)OC(F)(F)O3)C(C#N)=C1,4
+azinphos-ethyl,Pest.,CCOP(=S)(OCC)SCN1C(=O)C2=CC=CC=C2N=N1,3
+isoxathion,Pest.,S=P(OCC)(OCC)OC1C=C(C2C=CC=CC=2)ON=1,3
+butamifos,Pest.,S=P(OC1=CC(C)=CC=C1[N+]([O-])=O)(NC(C)CC)OCC,2
+chlorobenzilate,Pest.,CCOC(=O)C(O)(c1ccc(Cl)cc1)c2ccc(Cl)cc2,2
+tebupirimfos,Pest.,CCOP(=S)(OC(C)C)Oc1cnc(nc1)C(C)(C)C,3
+etoxazole,Pest.,O1CC(C2=CC=C(C(C)(C)C)C=C2OCC)N=C1C1=C(F)C=CC=C1F,1
+ethion,Pest.,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,6
+3-(4-METHYLBENZYLIDENE)CAMPHOR,PPCPs,C12(C)C(C)(C)C(CC1)C(=CC1=CC=C(C)C=C1)C2=O,5
+Sulfathiazole,Pharm.,Nc1ccc(cc1)S(=O)(=O)Nc2nccs2,1
+tinidazole,Pharm.,CCS(=O)(=O)CCn1c(C)ncc1[N+]([O-])=O,3
+SULFAMOXOLE,Pharm.,C1(S(NC2=NC(C)=C(C)O2)(=O)=O)=CC=C(N)C=C1,1
+Clothianidin,Pest.,CN\C(NCc1cnc(Cl)s1)=N/[N+]([O-])=O,9
+tetrahydropalmatine,Pharm.,C12CC3=C(C(OC)=C(OC)C=C3)CN1CCC1C=C(OC)C(OC)=CC2=1.Cl,5
+Oxibendazole,Pharm.,CCCOc1ccc2[nH]c(NC(=O)OC)nc2c1,7
+Flubendazole,Pharm.,COC(=O)Nc1nc2cc(ccc2[nH]1)C(=O)c3ccc(F)cc3,7
+methylprednisolone,Pharm.,C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O,2
+Bezafibrate,Pharm.,C(O)(=O)C(OC1=CC=C(CCNC(=O)C2=CC=C(Cl)C=C2)C=C1)(C)C,5
+Tris(3-chloropropyl)phosphate,OPFPs,O=P(OCCCCl)(OCCCCl)OCCCCl,1
+fenbendazole,Pest.,C(OC)(=O)NC1NC2=CC(SC3=CC=CC=C3)=CC=C2N=1,1
+methyltestosterone,Pharm.,C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,2
+Triphenyl phosphate,OPFPs,O=P(Oc1ccccc1)(Oc2ccccc2)Oc3ccccc3,2
+mefenamic acid,Pharm.,Cc1cccc(Nc2ccccc2C(O)=O)c1C,5
+4-[4-(4-hydroxyphenyl)hex-3-en-3-yl]phenol,Others,CC\C(c1ccc(O)cc1)=C(\CC)c2ccc(O)cc2,1
+bupirimate,Pest.,CCCCc1c(C)nc(NCC)nc1OS(=O)(=O)N(C)C,3
+acrinathrin,Pest.,CC1(C)[C@@H](\C=C/C(=O)OC(C(F)(F)F)C(F)(F)F)[C@H]1C(=O)O[C@H](C#N)c2cccc(Oc3ccccc3)c2,1
+dimethoate,Pest.,CNC(=O)CSP(=S)(OC)OC,6
+mephosfolan,Pest.,CCOP(=O)(N=C1SCC(S1)C)OCC,5
+imazalil,Pest.,Clc1ccc(C(Cn2ccnc2)OCC=C)c(Cl)c1,8
+pirimiphos-methyl,Pest.,CCN(CC)c1nc(C)cc(OP(=S)(OC)OC)n1,3
+diniconazole,Pest.,OC(C(C)(C)C)/C(N1N=CC=C1)=C\C2=CC=C(Cl)C=C2Cl,8
+pretilachlor,Pest.,CCCOCCN(C(=O)CCl)c1c(CC)cccc1CC,1
+bifenox,Pest.,COC(=O)c1cc(Oc2ccc(Cl)cc2Cl)ccc1[N+]([O-])=O,2
+fluazifop-butyl,Pest.,CCCCOC(=O)C(C)Oc1ccc(Oc2ccc(cn2)C(F)(F)F)cc1,1
+Bis(4-methyl-2-pentyl) phthalate,PAEs,C(OC(CC(C)C)C)(=O)C1=CC=CC=C1C(OC(CC(C)C)C)=O,1
+sulfacetamide,Pharm.,NC1=CC=C(S(N([Na])C(C)=O)(=O)=O)C=C1.O,1
+DIMINAZENE,Pharm.,N=C(N)C1=CC=C(N=NNC2=CC=C(C=C2)C(=N)N)C=C1,1
+Scopolamine,Pharm.,OC[C@H](c1ccccc1)C(=O)O[C@@H]2C[C@H]3N(C)[C@@H](C2)[C@@H]4O[C@H]34,5
+Dexamethasone,Pharm.,F[C@@]12[C@]3(C=CC(C=C3CC[C@@]1([H])[C@]1([H])C[C@@H](C)[C@](O)(C(=O)CO)[C@]1(C[C@@H]2O)C)=O)C,6
+Metandienone,SHDs,C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@H]3CC[C@]12C,1
+Diphenyl phthalate,PAEs,O=C(Oc1ccccc1)c2ccccc2C(=O)Oc3ccccc3,1
+2-Ethylhexyl diphenyl phosphate,OPFPs,O=P(OC=1C=CC=CC1)(OC=2C=CC=CC2)OCC(CC)CCCC,2
+tebuconazole,Pest.,CC(C)(C)C(O)(CCc1ccc(Cl)cc1)Cn2cncn2,8
+Sulfaguanidine,Pharm.,NC(=N)NS(=O)(=O)c1ccc(N)cc1,1
+testosterone propionate,Pharm.,CCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,2
+carbofuran,Pest.,O1C2=C(OC(=O)NC)C=CC=C2C(O)C1(C)C,4
+Dibutyl phenyl phosphate,OPFPs,O=P(OC=1C=CC=CC1)(OCCCC)OCCCC,1
+propoxur,Pest.,CNC(=O)Oc1ccccc1OC(C)C,4
+Sulfamethazine,Pharm.,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,1
+lidocaine,Pharm.,CCN(CC)CC(=O)Nc1c(C)cccc1C,3
+Cinchocaine,Pharm.,N1C2C(=CC=CC=2)C(C(NCCN(CC)CC)=O)=CC=1OCCCC,3
+difenoconazole,Pest.,CC1COC(Cn2cncn2)(O1)c3ccc(Oc4ccc(Cl)cc4)cc3Cl,8
+Difloxacin,Pharm.,CN1CCN(CC1)C2=CC3=C(C=C2F)C(=O)C(=CN3C4=CC=C(F)C=C4)C(O)=O,8
+p-Nitrophenol,DBPs,C1(O)=CC=C([N+]([O-])=O)C=C1,1
+Triethyl phosphate,OPFPs,CCOP(=O)(OCC)OCC,1
+hexestrol,SHDs,[C@@H](C1=CC=C(O)C=C1)(CC)[C@@H](C1=CC=C(O)C=C1)CC,2
+metalaxyl,Pest.,COCC(=O)N(C(C)C(=O)OC)c1c(C)cccc1C,1
+metolachlor,Pest.,C(N(C1=C(C)C=CC=C1CC)[C@@H](C)COC)(=O)CCl,1
+Fenfluramine,Pest.,CCNC(C)Cc1cccc(C(F)(F)F)c1,4
+triazophos,Pest.,CCOP(=S)(OCC)Oc1ncn(n1)-c2ccccc2,3
+paclobutrazol,Pest.,CC(C)(C)[C@H]([C@@H](CC1=CC=C(C=C1)Cl)N2C=NC=N2)O,8
+dichlofenthion,Pest.,CCOP(=S)(OCC)Oc1ccc(Cl)cc1Cl,5
+Dexbudesonide,Pharm.,C1(=O)C=C2[C@](C)(C=C1)[C@]1([H])[C@]([H])([C@@]3([H])[C@@](C[C@@H]1O)(C)[C@@]1(O[C@@H](O[C@@]1([H])C3)CCC)C(=O)CO)CC2,2
+Tributyl phosphate,OPFPs,CCCCOP(=O)(OCCCC)OCCCC,1
+Methylprednisolone acetate,Pharm.,CC1CC2C3CCC(O)(C(=O)COC(C)=O)C3(C)CC(O)C2C2(C)C=CC(=O)C=C12,2
+(r)-budesonide,Pharm.,CCC[C@@H]1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@@]5([C@H]4[C@H](C[C@@]3([C@@]2(O1)C(=O)CO)C)O)C,2
+PREDNICARBATE,Pharm.,CCC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)OC(=O)OCC,2
+Tris(2-butoxyethyl)phosphate,OPFPs,CCCCOCCOP(=O)(OCCOCCCC)OCCOCCCC,1
+Norethindrone,SHDs,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@]2(O)C#C,1
+Ethinylestradiol,SHDs,[H][C@]12CC[C@@]3(C)[C@@]([H])(CC[C@@]3(O)C#C)[C@]1([H])CCc4cc(O)ccc24,1
+chlorpromazine,Pharm.,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl,3
+Fluorometholone,Pharm.,F[C@@]12[C@]3(C=CC(C=C3[C@@H](C)C[C@H]1[C@@H]1CC[C@](C(C)=O)([C@@]1(C)C[C@@H]2O)O)=O)C,6
+phorate sulfone,Pest.,CCOP(=S)(OCC)SCS(=O)(=O)CC,6
+2-Ethylhexyl 4-Methoxyainnarm,DBPs,CCCCC(CC)COC(=O)c1ccc(cc1)N(C)C,2
+Fleroxacin,Pharm.,N1(CCF)C2=C(C=C(F)C(N3CCN(C)CC3)=C2F)C(=O)C(C(O)=O)=C1                                                  ,8
+Phenolphthalein,Others,C1=CC=C2C(=C1)C(=O)OC2(C3=CC=C(C=C3)O)C4=CC=C(C=C4)O,1
+Boldenone,SHDs,C[C@@]12[C@@]3([C@]([C@]4([C@](C)(CC3)[C@@](O)(C(C4)([2H])[2H])[2H])[H])(CCC1=CC(=O)C=C2)[H])[H],1
+ethofumesate,Pest.,CC1(C)C(OCC)OC2=CC=C(OS(C)(=O)=O)C=C12,2
+Brucine,Pharm.,O1[C@@]2([H])CC(N3C4=CC(=C(C=C4[C@@]45[C@]3([H])[C@@]2([H])[C@@]2([H])C[C@]4([H])[N@](CC2=CC1)CC5)OC)OC)=O,5
+Indapamide,Pest.,ClC1C=CC(=CC=1S(N)(=O)=O)C(NN1C2C=CC=CC=2CC1C)=O,1
+Trimethyl phosphate,OPFPs,COP(=O)(OC)OC,1
+CORTISONE,Pharm.,C[C@]12CCC(=O)C=C1CC[C@H]3[C@@H]4CC[C@](O)(C(=O)CO)[C@@]4(C)CC(=O)[C@H]23,2
+pyrazophos,Pest.,CCOC(=O)c1cn2nc(OP(=S)(OCC)OCC)cc2nc1C,3
+methamidophos,Pest.,COP(=O)(N)SC,6
+sulfamonomethoxine,Pharm.,C1(S(NC2C=C(OC)N=CN=2)(=O)=O)=CC=C(N)C=C1,1
+benalaxyl,Pest.,COC(=O)C(C)N(C(=O)Cc1ccccc1)c2c(C)cccc2C,1
+3-Methyl-4-nitrophenol,DBPs,CC1=CC(O)=CC=C1[N+]([O-])=O,1
+Hydrocortisone,Pharm.,CC12C(C(CO)=O)(O)CCC1C1CCC3C(C1C(O)C2)(C)CCC(=O)C=3,2
+piroxicam,Pharm.,CN1C(C(=O)Nc2ccccn2)=C(O)c3ccccc3S1(=O)=O,1
+betamethasone,Pharm.,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]3(F)[C@@]2([H])CCC4=CC(=O)C=C[C@]34C,6
+HYDROXYPROGESTERONE CAPROATE,Pharm.,C1(=O)C=C2[C@](C)(CC1)[C@]1([H])[C@]([H])([C@@]3([H])[C@@](CC1)(C)[C@@](OC(=O)CCCCC)(C(=O)C)CC3)CC2,2
+Marbofloxacin,Pharm.,FC1C=C2C(C(C(=O)O)=CN3C2=C(C=1N1CCN(C)CC1)OCN3C)=O,8
+haloperidol,Pharm.,OC1(CCN(CCCC(=O)c2ccc(F)cc2)CC1)c3ccc(Cl)cc3,5
+mevinphos,Pest.,COC(=O)C=C(C)OP(=O)(OC)OC,2
+phorate,Pest.,CCOP(=S)(OCC)SCS(=O)(=O)CC,6
+tetracaine,Pharm.,O=C(C1C=CC(NCCCC)=CC=1)OCCN(C)C,3
+Diphenyl phosphate,OPFPs,OP(=O)(Oc1ccccc1)Oc2ccccc2,2
+3-Methoxy-4-nitrophenol,DBPs,COc1cc(O)ccc1[N+](=O)[O-],1
+Nandrolone,SHDs,CC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2O,1
+IPRONIDAZOLE,Pharm.,[N+](=O)([O-])c1[n](c(nc1)C(C)C)C,3
+Tris(2-chloroethyl) phosphate,OPFPs,ClCCOP(=O)(OCCCl)OCCCl,1
+Triisobutyl phosphate,OPFPs,P(OCC(C)C)(OCC(C)C)(OCC(C)C)=O,1
+isofenphos-methyl,Pest.,COP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C,2
+Tri-n-propylphosphate,OPFPs,CCCOP(=O)(OCCC)OCCC,1
+fensulfothion,Pest.,CCOP(=S)(OCC)Oc1ccc(S(C)=O)cc1,5
+CLOBETASOL PROPIONATE,Pharm.,CCC(=O)OC1(C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC12C)C(=O)CCl,4
+BETAMETHASONE DIPROPIONATE,Pharm.,C(COC(CC)=O)(=O)[C@]1(OC(CC)=O)[C@]2(C)[C@@](C[C@@H]1C)([C@]3([C@](F)([C@@H](O)C2)[C@]4(C)C(CC3)=CC(=O)C=C4)[H])[H],4
+metronidazole,Pharm.,CC1=NC=C([N+]([O-])=O)N1CCO,3
+Fluticasone propionate,Pharm.,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,4
+sulfaquinoxaline,Pharm.,NC1=CC=C(C=C1)S(=O)(=O)NC1=NC2=CC=CC=C2N=C1,1
+Citalopram,Pharm.,CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F,5
+Propionylpromazine,Pharm.,Cl.S1C2C=CC=CC=2N(C2C=C(C(CC)=O)C=CC1=2)CCCN(C)C,3
+famphur,Pest.,COP(=S)(OC)Oc1ccc(cc1)S(=O)(=O)N(C)C,5
+phorate sulfoxide,Pest.,CCOP(=S)(OCC)SCS(=O)(=O)CC,6
+flutolanil,Pest.,C(NC1=CC=CC(OC(C)C)=C1)(=O)C1=CC=CC=C1C(F)(F)F,1
+pyridaphenthion,Pest.,P(=S)(OCC)(OCC)OC1=NN(C2=CC=CC=C2)C(=O)C=C1,3
+sulindac,Pharm.,CC1=C(CC(O)=O)c2cc(F)ccc2\C1=C/c3ccc(cc3)S(C)=O,5
+Sulfameter,Pharm.,COc1cnc(NS(=O)(=O)c2ccc(N)cc2)nc1,1
+Sulfamethoxazole,Pharm.,CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NO1,1
+acetochlor,Pest.,CCc1cccc(C)c1N(COCC)C(=O)CCl,1
+estradiol benzoate,Pharm.,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])c3ccc(OC(=O)c4ccccc4)cc3CC[C@@]21[H],5
+Fluoxetine,Pharm.,C(CCNC)(OC1C=CC(C(F)(F)F)=CC=1)C1=CC=CC=C1,5
+benfluralin,Pest.,CCCCN(CC)c1c(cc(cc1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O,2
+cyprodinil,Pest.,C1(NC2=CC=CC=C2)=NC(C)=CC(C2CC2)=N1,7
+dioxathion,Pest.,CCOP(=S)(OCC)SC1OCCOC1SP(=S)(OCC)OCC,6
+kresoxim-methyl,Pest.,CO\N=C(\C(=O)OC)c1ccccc1COc1ccccc1C,1
+boscalid,Pest.,C1(Cl)=NC=CC=C1C(NC1=CC=CC=C1C1=CC=C(Cl)C=C1)=O,1
+N-desmethyl-acetamiprid,Pest.,C\C(NCc1ccc(Cl)nc1)=N/C#N,9
+pirimiphos-ethyl,Pest.,CCOP(=S)(OCC)Oc1cc(C)nc(n1)N(CC)CC,3
+Aconitine,Others,CCN1C[C@]2(COC)[C@H](O)C[C@@H](OC)C34C5C[C@]6(O)[C@@H](OC)[C@H](O)[C@@](OC(C)=O)(C5[C@H]6OC(=O)c7ccccc7)C([C@H](OC)C23)C14,3
+Fludrocortisone acetate,Pharm.,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)CC(=O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)CC[C@]12C,2
+Flurandrenolide,Pharm.,CC1(C)O[C@@H]2C[C@H]3[C@@H]4C[C@H](F)C5=CC(=O)CC[C@]5(C)[C@H]4[C@@H](O)C[C@]3(C)[C@@]2(O1)C(=O)CO,6
+FLUOCINOLONE ACETONIDE,Pharm.,[H][C@@]12C[C@H]3OC(C)(C)O[C@@]3(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,6
+propetamphos,Pest.,CCNP(=S)(OC)O\C(C)=C\C(=O)OC(C)C,2
+diclofop-methyl,Pest.,COC(=O)C(C)Oc1ccc(Oc2ccc(Cl)cc2Cl)cc1,1
+Thiamethoxam,Pest.,CN1COCN(Cc2cnc(Cl)s2)\C1=N\[N+]([O-])=O,9
+Chlormadinone acetate,SHDs,C1(=O)C=C2[C@](C)(CC1)[C@]1([H])[C@]([H])([C@@]3([H])[C@@](CC1)(C)[C@@](OC(C)=O)(C(=O)C)CC3)C=C2Cl,1
+Lasalocid sodium,Pharm.,[Na+].CC[C@H]([C@H]1O[C@@](CC)(C[C@@H]1C)[C@H]2CC[C@](O)(CC)[C@H](C)O2)C(=O)[C@@H](C)[C@@H](O)[C@H](C)CCc3ccc(C)c(O)c3C([O-])=O,9
+PROCAINAMIDE,Pharm.,CCN(CC)CCNC(=O)c1ccc(N)cc1,3
+Colchicine,Pharm.,N(C1CCc2c(c(c(c(c2)OC)OC)OC)C3=CC=C(C(=O)C=C31)OC)C,5
+virginiamycin m1,VDs,CC(C)[C@H]1OC(=O)C2=CCCN2C(=O)c2coc(CC(=O)C[C@H](O)\C=C(/C)\C=C\CNC(=O)\C=C\[C@H]1C)n2,11
+Valnemulin,VDs,C[C@@H]1CC[C@@]23CCC(=O)[C@H]2[C@@]1([C@@H](C[C@@]([C@H]([C@@H]3C)O)(C)C=C)OC(=O)CSC(C)(C)CNC(=O)[C@@H](C(C)C)N)C,1
+permethrin,Pest.,CC1(C)C(\C=C(/Cl)Cl)C1C(=O)OCc2cccc(Oc3ccccc3)c2,1
+sulfamethoxypyridazine,Pharm.,C1(S(NC2=NN=C(OC)C=C2)(=O)=O)=CC=C(N)C=C1,1
+"Methyl 3,5-Dichloro-4-Hydroxylbenzoate",DBPs,COC(=O)c1cc(Cl)c(O)c(Cl)c1,1
+chlormadinone acetate,Pharm.,C1(=O)C=C2[C@](C)(CC1)[C@]1([H])[C@]([H])([C@@]3([H])[C@@](CC1)(C)[C@@](OC(C)=O)(C(=O)C)CC3)C=C2Cl,4
+Medroxyprogesterone acetate,Pharm.,[H][C@@]12CC[C@](OC(C)=O)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)CC[C@]12C,2
+AMINOPYRINE,Pharm.,CN(C)C1=C(C)N(C)N(c2ccccc2)C1=O,3
+Narasin,Pharm.,CC[C@H]([C@H]1[C@H](C[C@@H]([C@@H](O1)[C@@H](C)[C@@H]([C@H](C)C(=O)[C@H](CC)[C@@H]2[C@H](C[C@H]([C@]3(O2)C=C[C@H]([C@@]4(O3)CC[C@@](O4)(C)[C@H]5CC[C@@]([C@@H](O5)C)(CC)O)O)C)C)O)C)C)C(=O)O,9
+chlorfenson,Pest.,O=S(C1C=CC(Cl)=CC=1)(OC1C=CC(Cl)=CC=1)=O,5
+FLUDROCORTISONE ACETATE,Pharm.,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)CC(=O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)CC[C@]12C,2
+Salinomycin,Pharm.,CCC(C1CCC(C(O1)C(C)C(C(C)C(=O)C(CC)C2C(CC(C3(O2)C=CC(C4(O3)CCC(O4)(C)C5CCC(C(O5)C)(CC)O)O)C)C)O)C)C(=O)O,9
+fipronil,Pest.,NC=1N(N=C(C#N)C1S(C(F)(F)F)=O)C2=C(Cl)C=C(C(F)(F)F)C=C2Cl,1
+Cortisone acetate,Pharm.,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,2
+AMCINONIDE,Pharm.,[H][C@@]12C[C@@]3([H])[C@]4([H])CCC5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@@]1(OC1(CCCC1)O2)C(=O)COC(C)=O,4
+Tiamulin,Pharm.,[H][C@@]12C(=O)CC[C@]11CC[C@@H](C)[C@@]2(C)[C@@H](C[C@@](C)(C=C)[C@@H](O)[C@@H]1C)OC(=O)CSCCN(CC)CC,2
+tolmetin,Pharm.,N1(C)C(C(=O)C2=CC=C(C)C=C2)=CC=C1CC(O)=O,5
+Mesaconitine,Pharm.,CC(=O)OC12C3C(CC(C3OC(=O)C4=CC=CC=C4)(C(C1O)OC)O)C56C(CC(C7(C5C(C2C6N(C7)C)OC)COC)O)OC,9
+TRIAMCINOLONE ACETONIDE,Pharm.,C(CO)(=O)[C@]12[C@]3(C)[C@@](C[C@]1(OC(C)(C)O2)[H])([C@]4([C@](F)([C@@H](O)C3)[C@]5(C)C(CC4)=CC(=O)C=C5)[H])[H],6
+Monensin,Pharm.,CC[C@]1(CC[C@@H](O1)[C@]2(C)CC[C@@]3(O2)C[C@@H]([C@H]([C@H](O3)[C@@H](C)[C@@H]([C@@H](C)C(=O)O)OC)C)O)[C@H]4[C@H](C[C@@H](O4)[C@@H]5[C@H](C[C@H]([C@@](O5)(CO)O)C)C)C,9
+Chlorpheniramine maleate,Pharm.,CN(C)CCC(C1=CC=C(Cl)C=C1)C2=NC=CC=C2.O=C(/C=C\C(O)=O)O,5
+BECLOMETHASONE,Pharm.,[H][C@]12C[C@@H](C)[C@@](O)(C(=O)CO)[C@]1(C)C[C@@H](O)[C@@]3(Cl)[C@]2([H])CCC4=CC(=O)C=C[C@@]34C,2
+clindamycin,Pharm.,[C@]([H])([C@]1([H])[C@@H]([C@H](O)[C@@H](O)[C@@H](SC)O1)O)([C@@H](Cl)C)NC([C@H]1N(C[C@H](CCC)C1)C)=O,6
+CORTISOL 17-VALERATE,Pharm.,[H][C@@]12CCC3=CC(=O)CC[C@]3(C)[C@@]1([H])[C@@H](O)C[C@@]4(C)[C@@]2([H])CC[C@]4(OC(=O)CCCC)C(=O)CO,2
+fonofos,Pest.,CCOP(=S)(CC)Sc1ccccc1,5
+4-Formylaminoantipyrine,Pharm.,CN1N(C(=O)C(NC=O)=C1C)c2ccccc2,3
+Trisobutyl phosphate,OPFPs,P(OCC(C)C)(OCC(C)C)(OCC(C)C)=O,1
+4-lsopropylantipynine,DBPs,O=C1C(C(C)C)=C(C)N(C)N1c2ccccc2,2
+erythromycin,Pharm.,[C@]1([C@@H](O)[C@H](C)O[C@@]([H])(O[C@@H]2[C@@H](C)C(=O)O[C@@H]([C@](C)([C@H](O)[C@@H](C)C(=O)[C@H](C)C[C@@]([C@@H]([C@H]2C)O[C@@]2(O[C@@H](C[C@H](N([13C]([2H])([2H])[2H])C)[C@H]2O)C)[H])(C)O)O)CC)C1)(OC)C,9
+norethindrone,Pharm.,O[C@@]1([C@@]2([C@H]([C@H]3[C@@H]([C@H]4CCC(=O)C=C4CC3)CC2)CC1)C)C#C,2
+nandrolone,Pharm.,C[C@]12CC[C@]3([H])[C@@]4([H])CCC(=O)C=C4CC[C@@]3([H])[C@]1([H])CC[C@@H]2OC(=O)CCC1C=CC=CC=1,2
+clomazone,Pest.,CC1(C)CON(Cc2ccccc2Cl)C1=O,4
+mepanpyrim,Pest.,CC#CC1=CC(C)=NC(NC2=CC=CC=C2)=N1,7
+FLUTICASONE PROPIONATE,Pharm.,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,4
+Roxithromycin,Pharm.,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC3OC(C)CC(C3O)N(C)C)C(C)(O)CC(C)C(=N/OCOCCOC)\C(C)C(O)C1(C)O,9
+Deflazacort,Pharm.,CC(=O)OCC(=O)[C@@]12N=C(C)O[C@@H]1C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@H]4[C@@H](O)C[C@]23C,2
+CHLOROPROCAINE,Pharm.,CCN(CC)CCOC(=O)C1=C(C=C(C=C1)N)Cl,3
+trimethoprim,Pharm.,COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC,1
+Androstenedione,SHDs,[H][C@@]12CCC3=CC(=O)CC[C@]3(C)[C@@]1([H])CC[C@]4(C)C(=O)CC[C@@]24[H],1
+Eflone,Pharm.,C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@]2([C@@]4(C1=CC(=O)C=C4)C)F)O)C)(C(=O)C)OC(=O)C,4
+Triisopropyl phosphate,OPFPs,CC(C)OP(=O)(OC(C)C)OC(C)C,1
+Prednisone 21-acetate,Pharm.,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,2
+hydrocortisone acetate,Pharm.,C[C@@]12[C@]([C@]3([C@]([C@@H](O)C1)([C@]4(C)C(CC3)=CC(=O)CC4)[H])[H])(CC[C@@]2(C(COC(C)=O)=O)O)[H],2
+3-Bromo-4-nitrophenol,DBPs,OC1=CC=C(C(Br)=C1)[N+]([O-])=O,1
+2-Chloro-4-nitriphenol,DBPs,OC1=C(Cl)C=C(C=C1)[N+]([O-])=O,1
+HALOMETASONE,Pharm.,C[C@@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C(Cl)=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,6
+Diflorasone diacetate,Pharm.,[H][C@@]12C[C@H](C)[C@](OC(C)=O)(C(=O)COC(C)=O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,4
+Tylosin,VDs,CC[C@@H]1[C@H](/C=C(/C=C/C(=O)[C@@H](C[C@@H]([C@@H]([C@H]([C@@H](CC(=O)O1)O)C)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C)O[C@H]3C[C@@]([C@H]([C@@H](O3)C)O)(C)O)N(C)C)O)CC=O)C)\C)CO[C@H]4[C@@H]([C@@H]([C@@H]([C@H](O4)C)O)OC)OC,1
+Hypaconitine,Pest.,CC(=O)OC12C3C(CC(C3OC(=O)C4=CC=CC=C4)(C(C1O)OC)O)C56C(CCC7(C5C(C2C6N(C7)C)OC)COC)OC,1
+Mometasone furoate,Pharm.,O(C(=O)C1=CC=CO1)[C@@]2(C(CCl)=O)[C@]3(C)[C@@](C[C@H]2C)([C@]4([C@](Cl)([C@@H](O)C3)[C@]5(C)C(CC4)=CC(=O)C=C5)[H])[H],4
+Norfloxacin,Pharm.,N1(CC)C2=C(C=C(F)C(N3CCNCC3)=C2)C(=O)C(C(O)=O)=C1,8
+TRIAMCINOLONE DIACETATE,Pharm.,C[C@@]12[C@]([C@]3([C@](F)([C@@H](O)C1)[C@]4(C)C(CC3)=CC(=O)C=C4)[H])(C[C@@H](OC(C)=O)[C@@]2(C(COC(C)=O)=O)O)[H],4
+terbuthylazine,Pest.,CCNc1nc(Cl)nc(NC(C)(C)C)n1,7
+aclonifen,Pest.,C1(N)=C([N+]([O-])=O)C=CC(OC2=CC=CC=C2)=C1Cl,2
+Fluocinonide,Pharm.,[C@@]12(C(=O)COC(=O)C)OC(C)(C)O[C@@H]1C[C@@]1([H])[C@]3([H])C[C@@H](C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]21C)F,4
+TRIAMCINOLONE ACETONIDE 21-ACETATE,Pharm.,CC(OCC([C@]12[C@@]3([C@@]([C@@]4([H])[C@]([C@H](C3)O)([C@@]5(C(CC4)=CC(C=C5)=O)C)F)([H])C[C@@]1([H])OC(C)(O2)C)C)=O)=O,4
+2-Bromo-4-nitrophenol,DBPs,Oc1ccc(cc1Br)[N+]([O-])=O,1
+Tilmicosin,Pharm.,O([C@H]1[C@@H](CCN2C[C@@H](C)C[C@@H](C)C2)C[C@@H](C)C(=O)\C=C\C(\C)=C\[C@H](CO[C@H]3[C@H](OC)[C@H](OC)[C@H](O)[C@@H](C)O3)[C@@H](CC)OC(=O)C[C@@H](O)[C@@H]1C)[C@H]4[C@H](O)[C@@H](N(C)C)[C@H](O)[C@@H](C)O4,9
+BETAMETHASONE ACETATE,Pharm.,C[C@@]12[C@]([C@]3([C@@](F)([C@]4(C)C(CC3)=CC(=O)C=C4)[C@@H](O)C1)[H])(C[C@H](C)[C@@]2(C(COC(C)=O)=O)O)[H],4
+fenbuconazole,Pest.,C(C1C=CC=CC=1)(C#N)(CCC1C=CC(=CC=1)Cl)CN1N=CN=C1,8
+HALOBETASOL PROPIONATE,Pharm.,CCC(=O)O[C@@]1([C@@H](C)CC2C3C[C@H](F)C4=CC(=O)C=CC4(C)[C@@]3(F)C(O)CC12C)C(=O)CCl,4
+oxyfluorfen,Pest.,CCOc1cc(Oc2ccc(cc2Cl)C(F)(F)F)ccc1[N+]([O-])=O,2
+fluorometholone,Pharm.,F[C@@]12[C@]3(C=CC(C=C3[C@@H](C)C[C@H]1[C@@H]1CC[C@](C(C)=O)([C@@]1(C)C[C@@H]2O)O)=O)C,6
+Clarithromycin,Pharm.,O([C@@H]1O[C@H](C)C[C@H](N(C)C)[C@H]1O)[C@@H]1[C@@H](C)[C@H](O[C@@H]2O[C@@H](C)[C@H](O)[C@](C)(OC)C2)[C@@H](C)C(=O)O[C@H](CC)[C@](O)(C)[C@H](O)[C@@H](C)C(=O)[C@H](C)C[C@@]1(C)OC,9
+Alclometasone Dipropionate,Pharm.,C(COC(CC)=O)(=O)[C@]1(OC(CC)=O)[C@]2(C)[C@@](C[C@H]1C)([C@]3([C@]([C@@H](O)C2)([C@]4(C)C(C[C@H]3Cl)=CC(=O)C=C4)[H])[H])[H],4
+pyrimethanil,Pest.,Cc1cc(C)nc(Nc2ccccc2)n1,7
+BECLOMETHASONE DIPROPIONATE,Pharm.,[H][C@@]12C[C@H](C)[C@](OC(=O)CC)(C(=O)COC(=O)CC)[C@@]1(C)C[C@H](O)C1(Cl)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,4
+Trenbolone,Pharm.,CC12C=CC3=C4CCC(=O)C=C4CCC3C1CCC2O,2
+atrazine,Pest.,CCNc1nc(Cl)nc(NC(C)C)n1,7
+flurandrenolide,Pharm.,C[C@]12CCC(=O)C=C1[C@H](C[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3C[C@@H]5[C@]4(OC(O5)(C)C)C(=O)CO)C)O)F,6
+diflucortolone valerate,Pharm.,CCCCC(=O)OCC(=O)[C@H]1[C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C,4
+SULFADOXINE,Pharm.,COc1ncnc(NS(=O)(=O)c2ccc(N)cc2)c1OC,1
+molinate,Pest.,CCSC(=O)N1CCCCCC1,6
+tetrachlorvinphose   ,Pest.,COP(=O)(OC)O/C(=C\Cl)/C1=CC(=C(C=C1Cl)Cl)Cl,5
+Moxidectin,VDs,C[C@@H]\1C/C(=C/C[C@@H]2C[C@@H](C[C@@]3(O2)C/C(=N\OC)/[C@@H]([C@H](O3)/C(=C/C(C)C)/C)C)OC(=O)[C@@H]4C=C([C@H]([C@@H]5[C@]4(/C(=C/C=C1)/CO5)O)O)C)/C,1
+josamycin,Pharm.,COC1C(OC(C)=O)CC(=O)OC(C)CC=CC=CC(O)C(C)CC(CC=O)C1OC1OC(C)C(OC2CC(C)(O)C(OC(=O)CC(C)C)C(C)O2)C(N(C)C)C1O,9
+3-Chloro-4-nitrophenol,DBPs,C1=CC(=C(C=C1O)Cl)[N+](=O)[O-],1
+CORTISONE ACETATE,Pharm.,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,2
+clobetasone butyrate,Pharm.,O(C(CCC)=O)[C@@]1(C(CCl)=O)[C@]2(C)[C@@](C[C@@H]1C)([C@]3([C@](F)(C(=O)C2)[C@]4(C)C(CC3)=CC(=O)C=C4)[H])[H],4
+methidathion,Pest.,COC1=NN(CSP(=S)(OC)OC)C(=O)S1,3
+sulfaguanidine,Pharm.,NC(=N)NS(=O)(=O)c1ccc(N)cc1,1
+Ciclesonide,Pharm.,O1[C@]([H])(C2([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C2([H])[H])O[C@]2([H])C([H])([H])[C@@]3([H])[C@]4([H])C([H])([H])C([H])([H])C5=C([H])C(C([H])=C([H])[C@]5(C([H])([H])[H])[C@@]4([H])[C@]([H])(C([H])([H])[C@]3(C([H])([H])[H])[C@]12C(C([H])([H])OC(C([H])(C([H])([H])[H])C([H])([H])[H])=O)=O)O[H])=O,2
+Sulfaclozine,Pharm.,C1=CC(=CC=C1N)S(=O)(=O)NC2=CN=CC(=N2)Cl,1
+Bisphenol A bis(diphenyl phosphate),OPFPs,P(=O)(OC1C=CC=CC=1)(OC1C=CC=CC=1)OC1C=CC(C(C2C=CC(OP(=O)(OC3C=CC=CC=3)OC3C=CC=CC=3)=CC=2)(C)C)=CC=1,2
+Tetrachlorobisphenol A,DBPs,CC(C)(c1cc(Cl)c(O)c(Cl)c1)c2cc(Cl)c(O)c(Cl)c2,2
+tebufenpyrad,Pest.,N1(C)C(C(NCC2=CC=C(C(C)(C)C)C=C2)=O)=C(Cl)C(CC)=N1,8
+coumaphos,Pest.,O=C1OC=2C=C(OP(=O)(OCC)OCC)C=CC2C(=C1Cl)C,2
